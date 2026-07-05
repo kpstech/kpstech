@@ -1,8 +1,8 @@
 # Hi, I'm Krishna Prasad S 
 
-🎓 M.Tech Artificial Intelligence & Data Science, SASTRA Deemed University
-🧠 Deep Learning | Explainable AI | Data Analytics
-📄 Currently working toward IEEE Access publication (Brain Tumor MRI Classification)
+ M.Tech Artificial Intelligence & Data Science, SASTRA Deemed University
+ Deep Learning | Explainable AI | Data Analytics
+ Currently working toward IEEE Access publication (Brain Tumor MRI Classification)
 
 ---
 
