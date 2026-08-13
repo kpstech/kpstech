@@ -1,4 +1,4 @@
-# Hi, I'm Krishna Prasad S 
+# Hi, I'm Krishna Prasad  
 
  M.Tech Artificial Intelligence & Data Science, SASTRA Deemed University
  Deep Learning | Explainable AI | Data Analytics
