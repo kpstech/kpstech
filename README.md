@@ -24,20 +24,19 @@
 
 ### Featured Projects
 
-1) Brain Tumor MRI Classification (VGG16 + GradCAM)**
-Deep learning pipeline for classifying brain tumor types from MRI scans using VGG16 transfer learning, with GradCAM explainability for visualizing model focus regions. Deployed via an interactive Streamlit app. Targeting IEEE Access publication.
-`TensorFlow` `Keras` `GradCAM` `Streamlit` `Transfer Learning`
+### Featured Projects
 
+1. **Brain Tumor MRI Classification (VGG16 + Grad-CAM)**  
+   A deep learning pipeline that classifies brain tumor types from MRI scans using VGG16 transfer learning. Grad-CAM visualizations help explain the regions influencing each prediction. The model is deployed through an interactive Streamlit app. Targeting publication in *IEEE Access*.  
+   `TensorFlow` `Keras` `Grad-CAM` `Streamlit` `Transfer Learning`
 
- 2.Stream-CODA — PySpark Edition
- Real-time incremental drill-across analytics with correlation drift detection, rebuilt with Apache Spark (PySpark) as the primary compute engine, extending Drill-CODA (Cuzzocrea, SN Computer Science, 2025).
+2. **Stream-CODA — PySpark Edition**  
+   Real-time, incremental drill-across analytics with correlation drift detection. Rebuilt with Apache Spark (PySpark) as the primary compute engine, extending Drill-CODA (Cuzzocrea, *SN Computer Science*, 2025).  
+   `Apache Spark` `PySpark` `Streamlit` `Python`
 
-`Apche Spark` `PySpark` `Streamlit` `Python`
-
-3) Garbage Recognition (EfficientNetB0)**
-CNN-based waste classification system using EfficientNetB0 transfer learning on the TrashNet dataset, classifying waste into 6 categories with 90% test accuracy.
-`TensorFlow` `Keras` `EfficientNet` `Computer Vision`
-
+3. **Garbage Recognition (EfficientNetB0)**  
+   A CNN-based waste classification system built with EfficientNetB0 transfer learning and the TrashNet dataset. It classifies waste into six categories, with 90% test accuracy.  
+   `TensorFlow` `Keras` `EfficientNetB0` `Computer Vision`
 ---
 
 ### Connect with me
