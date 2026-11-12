@@ -29,8 +29,8 @@ Deep learning pipeline for classifying brain tumor types from MRI scans using VG
 `TensorFlow` `Keras` `GradCAM` `Streamlit` `Transfer Learning`
 
 
-2)Stream-CODA — PySpark Edition
-Real-time incremental drill-across analytics with correlation drift detection, rebuilt with Apache Spark (PySpark) as the primary compute engine, extending Drill-CODA (Cuzzocrea, SN Computer Science, 2025).
+ 2.Stream-CODA — PySpark Edition
+ Real-time incremental drill-across analytics with correlation drift detection, rebuilt with Apache Spark (PySpark) as the primary compute engine, extending Drill-CODA (Cuzzocrea, SN Computer Science, 2025).
 
 `Apche Spark` `PySpark` `Streamlit` `Python`
 
